@@ -1,0 +1,8 @@
+br\ws\ControleConcorrencia$TrancaInfo.class
+br\ws\ControleConcorrencia.class
+br\ws\Operacao.class
+br\ws\SoapServer.class
+br\JakartaRestConfiguration.class
+br\ws\OperacaoCallback.class
+br\resources\JakartaEE10Resource.class
+br\ws\Teste.class
