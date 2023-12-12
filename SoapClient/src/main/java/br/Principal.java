@@ -8,19 +8,6 @@ public class Principal {
                 = "http://localhost:8080/SoapServer/Locadora?wsdl";
         String soapAction
                 = "http://localhost:8080/SoapServer/Locadora";
-        //Soma 1+2
-//        for (int i = 1; i < 3; i++) {
-//            String CAMPO1 = String.valueOf(i);
-//            //String CAMPO2 = String.valueOf(c2);
-//            SoapClient sc1 = new SoapClient(CAMPO1);
-//            SoapClient sc2= new SoapClient(CAMPO1);
-//            System.out.println("cliente 1");
-//            sc1.callSoapWebService(soapEndpointUrl, soapAction);
-//            System.out.println("cliente 2");
-//            sc2.callSoapWebService(soapEndpointUrl, soapAction);
-//            System.out.println("\n----------------------------\n");
-//
-//        }
 
         String id1 = String.valueOf(1);
         String id2 = String.valueOf(2);
